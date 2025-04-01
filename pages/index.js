@@ -13,7 +13,7 @@ export async function getStaticProps() {
 }
 
 const cart = [];
-const cartCount = cart.length;
+let cartCount = 0;
 
 export default function Home({ products }) {
 
@@ -23,6 +23,9 @@ export default function Home({ products }) {
         console.log(response.data.title)
         cart.push(response.data);
         console.log(cart);
+        cartCount++;
+        console.log(cartCount);
+        document.querySelector(".cartCount").innerHTML = cartCount;
       })
       .catch((error) => {
         console.log(error);
@@ -48,7 +51,7 @@ export default function Home({ products }) {
         <h1>🛍️ Список товарів</h1>
         <div className="cartIconCon">
           <ShoppingCartIcon />
-          <div className="cartCount">{cartCount}</div>
+          <div className="cartCount">0</div>
         </div>
 
 
