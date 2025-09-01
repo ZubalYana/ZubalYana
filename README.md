@@ -28,8 +28,8 @@ Web developer (front and back)
 
 ### 📫 Contact Me
 
-- Instagram: [@yanevesq](https://www.instagram.com/yanevesq/)  
-- Telegram: [@yanevesq](https://t.me/yanevesq)
+- Instagram: [@yanavesq](https://www.instagram.com/yanavesq/)  
+- Telegram: [@yanavesq](https://t.me/yanavesq)
 
 
 
