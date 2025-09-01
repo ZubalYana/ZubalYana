@@ -20,7 +20,9 @@ Web developer (front and back)
 🇯🇵 Japanese — basics 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZubalYana&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Yana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZubalYana&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZubalYana&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+![Yana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZubalYana&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZubalYana&layout=compact)
 
