@@ -2,9 +2,8 @@
 
 Web developer (front and back)
 
-- 💻 I’m currently working on commercial projects: sushi restaurant system and paintball equipment distributor shop
-- 🔭 Developing personal projects: a typing speed test project and a new portfolio
-- 🌱 Learning: React Native, TypeScript, Qwik 
+- 💻 I’m currently working on: Santa Letter assignment 
+- 🌱 Learning: Electron, Typescript
 - 💪 In free time: gym and books
 
 ### 🛠️ Tech Stack
