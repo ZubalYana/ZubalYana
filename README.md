@@ -2,8 +2,8 @@
 
 Web developer (front and back)
 
-- 💻 I’m currently working on: Santa Letter assignment 
-- 🌱 Learning: Electron, Typescript
+- 💻 I’m currently working on: a new portfolio
+- 🌱 Learning: JAVA, TypeScript
 - 💪 In free time: gym and books
 
 ### 🛠️ Tech Stack
