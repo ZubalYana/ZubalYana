@@ -3,7 +3,7 @@
 Web developer (front and back)
 
 - 💻 I’m currently working on: a new portfolio
-- 🌱 Learning: JAVA, TypeScript
+- 🌱 Learning: C++, TypeScript
 - 💪 In free time: gym and books
 
 ### 🛠️ Tech Stack
